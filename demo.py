@@ -5,8 +5,8 @@ def my_function():
     return a + b
 
 
-x=11
-y=4
+x = 11
+y = 4
 print("11 + 4 = ", x + y)
 print("11 -4 = ", x - y)
 print("11 * 4 = ", x * y)
