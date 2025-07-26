@@ -5,8 +5,7 @@
     git merge <other_branch>/<their_branch>
     # Shows a conflict.
     git merge --abort
-    # To abort the merge ongoing.
-    git log --diff
+    # To abort the merge ongoing(not mandatory).
     git checkout --theirs <somefile.ext>
     # This above command is for if we want to keep their code/text/anything.
     git checkout --ours <somefile.ext>
