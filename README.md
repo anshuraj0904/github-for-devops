@@ -51,4 +51,6 @@
     # get back the stashed data and continue with the work:-
     git stash pop
     # And, you are back to where you left all.    
+
+    # Note:- stash works on LIFO principle, and a tip, always use stash pop, so that you store it and use it, instead of saving the things there, as at the industry level, saving things in a stash will make no sense actually. 
 ```
