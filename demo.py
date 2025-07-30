@@ -1,4 +1,7 @@
 def my_function():
+    """
+    This is a demo function.
+    """
 
     a = 5
     b = 7
